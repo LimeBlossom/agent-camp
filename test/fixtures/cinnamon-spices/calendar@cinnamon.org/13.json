@@ -1,0 +1,3 @@
+{
+  "keyOpen": { "type": "keybinding", "default": "<Super>c", "description": "Show calendar", "value": "::" }
+}

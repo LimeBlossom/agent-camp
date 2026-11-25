@@ -1,0 +1,7 @@
+[Unit]
+Description=Parent of camp-ui.slice (systemd nests on the dash); carries the priority at the top level
+
+[Slice]
+CPUWeight=1000
+IOWeight=1000
+MemoryLow=2G

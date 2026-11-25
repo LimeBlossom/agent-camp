@@ -1,0 +1,5 @@
+{
+  "section1": { "type": "section", "description": "Behavior" },
+  "keyOpen": { "type": "keybinding", "default": "<Shift><Super>s", "description": "Show menu", "value": "<Shift><Super>s" },
+  "showtrack": { "type": "switch", "default": true, "description": "Show song information on the panel", "value": true }
+}

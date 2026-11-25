@@ -1,0 +1,4 @@
+{
+  "keyOpen": { "type": "keybinding", "default": "<Super>n", "description": "Show notifications", "value": "<Super>n" },
+  "keyClear": { "type": "keybinding", "default": "<Shift><Super>c", "description": "Clear notifications", "value": "::<Primary><Alt>F9" }
+}

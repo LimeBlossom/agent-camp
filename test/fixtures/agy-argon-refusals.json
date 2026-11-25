@@ -1,0 +1,66 @@
+[
+  {
+    "step": 27,
+    "at": "2026-10-21T03:14:15+00:00",
+    "message": "Individual quota reached. Please upgrade your subscription to increase your limits. Resets in 71h37m12s.",
+    "serverResetAt": "2026-10-24T02:51:28Z",
+    "model": "gemini-4-argon-medium",
+    "errorId": "e3d7ff9c-4512-4c7e-abb7-df131e9021ab-278"
+  },
+  {
+    "step": 29,
+    "at": "2026-10-21T03:14:16+00:00",
+    "message": "Individual quota reached. Please upgrade your subscription to increase your limits. Resets in 71h37m11s.",
+    "serverResetAt": "2026-10-24T02:51:28Z",
+    "model": "gemini-4-argon-medium",
+    "errorId": "e3d7ff9c-4512-4c7e-abb7-df131e9021ab-298"
+  },
+  {
+    "step": 31,
+    "at": "2026-10-21T03:14:21+00:00",
+    "message": "Individual quota reached. Please upgrade your subscription to increase your limits. Resets in 71h37m6s.",
+    "serverResetAt": "2026-10-24T02:51:28Z",
+    "model": "gemini-4-argon-medium",
+    "errorId": "e3d7ff9c-4512-4c7e-abb7-df131e9021ab-318"
+  },
+  {
+    "step": 33,
+    "at": "2026-10-21T03:18:52+00:00",
+    "message": "Individual quota reached. Please upgrade your subscription to increase your limits. Resets in 71h32m35s.",
+    "serverResetAt": "2026-10-24T02:51:28Z",
+    "model": "gemini-4-argon-medium",
+    "errorId": "e3d7ff9c-4512-4c7e-abb7-df131e9021ab-338"
+  },
+  {
+    "step": 35,
+    "at": "2026-10-21T03:19:19+00:00",
+    "message": "Individual quota reached. Please upgrade your subscription to increase your limits. Resets in 71h32m8s.",
+    "serverResetAt": "2026-10-24T02:51:28Z",
+    "model": "gemini-4-argon-medium",
+    "errorId": "e3d7ff9c-4512-4c7e-abb7-df131e9021ab-358"
+  },
+  {
+    "step": 39,
+    "at": "2026-10-21T04:36:06+00:00",
+    "message": "Individual quota reached. Please upgrade your subscription to increase your limits. Resets in 70h15m21s.",
+    "serverResetAt": "2026-10-24T02:51:28Z",
+    "model": "gemini-4-argon-medium",
+    "errorId": "e3d7ff9c-4512-4c7e-abb7-df131e9021ab-398"
+  },
+  {
+    "step": 41,
+    "at": "2026-10-21T04:36:25+00:00",
+    "message": "Individual quota reached. Please upgrade your subscription to increase your limits. Resets in 70h15m2s.",
+    "serverResetAt": "2026-10-24T02:51:28Z",
+    "model": "gemini-4-argon-medium",
+    "errorId": "e3d7ff9c-4512-4c7e-abb7-df131e9021ab-418"
+  },
+  {
+    "step": 43,
+    "at": "2026-10-21T15:21:33+00:00",
+    "message": "Individual quota reached. Please upgrade your subscription to increase your limits. Resets in 59h29m54s.",
+    "serverResetAt": "2026-10-24T02:51:28Z",
+    "model": "gemini-4-argon-medium",
+    "errorId": "e3d7ff9c-4512-4c7e-abb7-df131e9021ab-438"
+  }
+]

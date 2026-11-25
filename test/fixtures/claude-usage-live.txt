@@ -1,0 +1,26 @@
+Warning: this sign-in ends between 2026-11-14 and 2026-11-17 (in 2 days at the earliest). Renewing it does not move those dates. Run claude auth login before then, or use claude setup-token for unattended jobs.
+You are currently using your subscription to power your Claude Code usage
+
+Current session: 5% used · resets Nov 11, 11:59pm (America/Chicago)
+Current week (all models): 72% used · resets Nov 13, 2:59pm (America/Chicago)
+Current week (Fable): 0% used · resets Nov 13, 3pm (America/Chicago)
+
+What's contributing to your usage?
+Approximate · sessions on this machine only · shares overlap
+
+Last 24h · 731 requests · 7 sessions
+  93%  Give simple subagents a cheaper model
+  86%  Stop sessions you no longer need · some ran 8 hours or more
+  52%  Start fresh when you switch tasks · run /clear
+  33%  See what fills your context · run /context
+  Top skills: /vault 2%, /safe-data-ops 1%
+  Top subagents: vault 8%, code-investigator 2%, kaguya-critic 1%
+
+Last 7d · 5238 requests · 58 sessions
+  53%  Give simple subagents a cheaper model
+  46%  Stop sessions you no longer need · some ran 8 hours or more
+  38%  Start fresh when you switch tasks · run /clear
+  22%  See what fills your context · run /context
+  Top skills: /screenshot-review 2%, /vault 1%, /safe-data-ops 1%, /artifact-capabilities 1%
+  Top subagents: vault 3%, code-investigator 1%, critic 1%
+  Top MCP servers: blender 2%, camp 2%

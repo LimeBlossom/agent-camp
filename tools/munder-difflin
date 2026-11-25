@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -eu
+
+app="$HOME/.local/share/camp/current.AppImage"
+if [ ! -x "$app" ]; then
+  printf 'Camp AppImage is missing or not executable: %s\n' "$app" >&2
+  exit 1
+fi
+
+export CAMP_REPO_PATH="${CAMP_REPO_PATH:-$HOME/src/munder-difflin}"
+if ! systemd-run --user --scope --slice=camp-ui.slice -q setsid -f "$app" "$@" \
+  </dev/null >/dev/null 2>&1; then
+  printf 'Could not start Camp in camp-ui.slice.\n' >&2
+  exit 1
+fi

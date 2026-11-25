@@ -1,0 +1,12 @@
+E1002 08:59:17.570980 prehooks.go:43 pre-invocation jsonhook__munder-hive_PreInvocation
+E1002 08:59:22.123661 posthooks.go:58 post-invocation jsonhook__munder-hive_PostInvocation
+E1002 08:59:22.125776 stophooks.go:62 stop jsonhook__munder-hive_Stop
+E1002 09:00:16.916463 prehooks.go:43 pre-invocation jsonhook__munder-hive_PreInvocation
+E1002 09:00:20.608288 posthooks.go:58 post-invocation jsonhook__munder-hive_PostInvocation
+E1002 09:00:20.609840 prehooks.go:43 pre-invocation jsonhook__munder-hive_PreInvocation
+E1002 09:00:26.357835 posthooks.go:58 post-invocation jsonhook__munder-hive_PostInvocation
+E1002 09:00:26.360613 prehooks.go:43 pre-invocation jsonhook__munder-hive_PreInvocation
+E1002 09:00:28.216244 posthooks.go:58 post-invocation jsonhook__munder-hive_PostInvocation
+E1002 09:00:28.217849 prehooks.go:43 pre-invocation jsonhook__munder-hive_PreInvocation
+E1002 09:00:30.634438 posthooks.go:58 post-invocation jsonhook__munder-hive_PostInvocation
+E1002 09:00:30.636000 stophooks.go:62 stop jsonhook__munder-hive_Stop

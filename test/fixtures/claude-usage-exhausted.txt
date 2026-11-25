@@ -1,0 +1,4 @@
+You are currently using your subscription to power your Claude Code usage
+
+Current session: 100% used (limit reached) · resets Nov 11, 11:59pm (America/Chicago)
+Current week (all models): 98% used · resets Nov 13, 2:59pm (America/Chicago)

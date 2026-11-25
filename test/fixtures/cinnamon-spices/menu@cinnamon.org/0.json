@@ -1,0 +1,3 @@
+{
+  "overlay-key": { "type": "keybinding", "default": "Super_L::Super_R", "description": "Keyboard shortcut to open and close the menu", "value": "Super_L::Super_R" }
+}

@@ -1,0 +1,19 @@
+
+      ▄▀▀▄
+     ▀▀▀▀▀▀
+    ▀▀▀▀▀▀▀▀
+   ▄▀▀    ▀▀▄
+  ▄▀▀      ▀▀▄
+
+  Antigravity CLI 1.2.14
+  user@example.com (Google AI Pro)
+  Gemini 3.8 Flash (High)
+  /home/user/project
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+> /quit
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+> /exit (quit)  Exit the CLI
+
+  ↑/↓ Navigate · enter Select · tab Complete
+esc to cancel                                                                                    Gemini 3.8 Flash · high

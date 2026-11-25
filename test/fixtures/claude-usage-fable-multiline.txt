@@ -1,0 +1,21 @@
+Current session
+█                                                 2% used
+Resets 8:59am (America/Chicago)
+
+Current week (all models)
+███████████████████▌                              39% used
+Resets Nov 20, 2:59pm (America/Chicago)
+
+Current week (Fable)
+███████████                                       22% used
+Resets Nov 20, 2:59pm (America/Chicago)
+
+What's contributing to your usage?
+Approximate · sessions on this machine only
+
+Scanning local sessions…
+
+Usage credits
+Usage credits are off · /usage-credits to turn them on
+
+Esc to cancel

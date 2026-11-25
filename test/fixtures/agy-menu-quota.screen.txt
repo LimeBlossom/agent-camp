@@ -1,0 +1,19 @@
+
+      ▄▀▀▄
+     ▀▀▀▀▀▀
+    ▀▀▀▀▀▀▀▀
+   ▄▀▀    ▀▀▄
+  ▄▀▀      ▀▀▄
+
+  Antigravity CLI 1.2.14
+  user@example.com (Google AI Pro)
+  Gemini 3.8 Flash (High)
+  /home/user/project
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+> /quota
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+> /usage (quota)  View model quota usage
+
+  ↑/↓ Navigate · enter Select · tab Complete
+esc to cancel                                                                                    Gemini 3.8 Flash · high
